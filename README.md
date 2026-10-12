@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_hw.svg" width="100%" alt="BlindGlasses STM32 Sensor Hub"/>
+  <img src="assets/banner.svg" width="100%" alt="BlindGlasses STM32 Sensor Hub"/>
 </div>
 
 <p align="center">
