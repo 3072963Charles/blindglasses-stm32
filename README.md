@@ -108,4 +108,4 @@ cmake --build --preset Debug
 
 ---
 
-*Author: Charles (AI-FanGe) · 明眸 BrightEyes 智能导盲眼镜硬件端*
+*Author: Charles (Zonkit) · 明眸 BrightEyes 智能导盲眼镜硬件端*
