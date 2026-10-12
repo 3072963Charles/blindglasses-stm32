@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="BlindGlasses STM32 Sensor Hub Firmware">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="BrightEyes Offline Safety Layer - STM32H743 Sensor Hub">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#170a07"/>
@@ -17,20 +17,18 @@
   <rect width="1280" height="320" fill="url(#glow)"/>
   <rect width="1280" height="320" fill="url(#grid)"/>
   <g font-family="'Segoe UI','Microsoft YaHei',system-ui,sans-serif">
-    <text x="72" y="112" font-size="50" font-weight="700" fill="#ffffff">BlindGlasses <tspan fill="#fdba74">STM32 Sensor Hub</tspan></text>
-    <text x="74" y="154" font-size="22" fill="#fed7aa" opacity="0.92">STM32H743 多传感器感知与语音预警固件</text>
-    <text x="74" y="196" font-size="25" font-weight="600" fill="#ffffff">URM09 超声波 + 4×VL53L0X ToF + JQ8900 语音播报</text>
+    <text x="72" y="106" font-size="46" font-weight="700" fill="#ffffff">明眸 BrightEyes · <tspan fill="#fdba74">离线安全层</tspan></text>
+    <text x="74" y="148" font-size="22" fill="#fed7aa" opacity="0.92">STM32H743 主控 · 多传感器融合 · 本地闭环守护</text>
+    <text x="74" y="194" font-size="25" font-weight="600" fill="#ffffff">全域无盲区感知 / 七级流水线避障 / 双路径跌倒检测</text>
     <g font-size="18" font-weight="600">
-      <rect x="72" y="228" width="208" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
-      <text x="176" y="253" text-anchor="middle" fill="#fdba74">前向主测距 0–500cm</text>
-      <rect x="296" y="228" width="212" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
-      <text x="402" y="253" text-anchor="middle" fill="#fed7aa">4 向 ToF 毫米级</text>
-      <rect x="524" y="228" width="210" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
-      <text x="629" y="253" text-anchor="middle" fill="#fca5a5">三级危险分级</text>
-      <rect x="750" y="228" width="206" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
-      <text x="853" y="253" text-anchor="middle" fill="#c4b5fd">11 条中文语音轨道</text>
-      <rect x="972" y="228" width="236" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
-      <text x="1090" y="253" text-anchor="middle" fill="#a5f3fc">Cortex-M7 @480MHz</text>
+      <rect x="72" y="228" width="238" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="191" y="253" text-anchor="middle" fill="#fdba74">10Hz · 延迟 &lt;100ms</text>
+      <rect x="326" y="228" width="238" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="445" y="253" text-anchor="middle" fill="#fed7aa">360° 无盲区感知</text>
+      <rect x="580" y="228" width="238" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="699" y="253" text-anchor="middle" fill="#fca5a5">三级风险预警</text>
+      <rect x="834" y="228" width="238" height="40" rx="20" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="953" y="253" text-anchor="middle" fill="#a5f3fc">12 条中文语音引导</text>
     </g>
   </g>
 </svg>
