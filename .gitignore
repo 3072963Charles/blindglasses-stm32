@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+
+# STM32CubeMX / IDE
+mx.scratch
+*.mxproject
+*.launch
+.vscode/
+.settings/
+.sixth/
+.claude/
+.clangd
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
